@@ -42,5 +42,17 @@
   "11": {
     "name": "fares",
     "pic": "./images/11.jpg"
+  },
+  "12": {
+    "name": "malik",
+    "pic": "./images/12.jpg"
+  },
+  "13": {
+    "name": "abdelrahman",
+    "pic": "./images/13.jpg"
+  },
+  "14": {
+    "name": "mohamed",
+    "pic": "./images/14.jpg"
   }
 }
